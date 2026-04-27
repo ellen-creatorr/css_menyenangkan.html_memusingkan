@@ -1,0 +1,34 @@
+<html>
+    <title>Ochy The Hunter</title>
+    <body style="margin:0">
+        <header style="background:Cornflowerblue">
+            <p>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/Frame%204_0_1603385959.svg" width="50px"/>
+                <a href="" style="color:black;font-weight:bold"> What kind of games we do make?</a>
+                <a href="" style="color:black;font-weight:bold"> price list</a>
+            </p>
+        </header>
+
+        <main>
+            <h1 style="font-size:30px;text-align:center;font-weight:bold"> Ochy The Hunter </h1>
+            <h1 style="font-size:20px;text-align:center;font-weight:bold"> And her adventure </h1>
+
+            <section>
+                <p style="font-weight:bold;font-size:20px;margin-top:10px"> We work in different genres</p>
+                <p> Do you want to make a game according to your scenario? <br>
+                Do you already have a game that needs to be finalized for mobile devices or for sale in another country? <br>
+                You can order the development or revision of the game from us.<br>
+                We work in a variety of genres: shooters, quests, logic and speed games.<br>
+                We also create games of mixed genres, games that develop useful skills: attention, memory, thinking.</p>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/maps-and-location_0_1603391752.png" width="180"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png" width="180"/>
+                <img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png" width="180"/>
+            </section>
+
+            
+        </main>
+        
+        <footer>
+        </footer>
+    </body>
+</html>
